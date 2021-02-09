@@ -17,6 +17,7 @@ mob. +49 15166156635
 A  process  engineer  with  Chemical  Engineering  degree  with  10-year experience chiefly in oil and gas industry. 
 
 Broad portfolio of roles that includes:
+
 - engineering design of small and large scale projects ($35B) in all development stages;
 - operational support of oil and gas facilities;
 - work at client and contractor positions.
