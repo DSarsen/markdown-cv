@@ -1,3 +1,7 @@
+---
+layout: cv
+title: Darkhan Sarsenov's CV
+---
 # Darkhan Sarsenov
 Process Engineer
 
