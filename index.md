@@ -1,9 +1,6 @@
----
-layout: cv
-title: Darkhan Sarsenov's CV
----
 # Darkhan Sarsenov
 Process Engineer
+
 {::comment}Consider changing for cross disciplinary jobs{:/}
 mob. +49 15166156635
 
@@ -12,7 +9,7 @@ mob. +49 15166156635
 
 ## Summary
 
-{::comment}Goddamn genius!{:/}
+{::comment}A goddamn genius!{:/}
 
 A  process  engineer  with  Chemical  Engineering  degree  with  10-year experience chiefly in oil and gas industry. 
 
@@ -23,70 +20,86 @@ Broad portfolio of roles that includes:
 - work at client and contractor positions.
 
 Proficiently employed industrial standards including API/ ASME, and GOST, as well as common practices in Oil and Gas Supermajors.
-{::comment}Description of a preferred/wanted job environment{:/}
+
+Enjoy working in a quickly changing and challenging working environment and learning new skills.
+
 Interested in pursuing a career related to downstream processing, biotechnology, combustion and renewable energy.Fluent user of Kazakh, Russian and English languages. Currently learning German (B1) and Turkish.
 
 ## Experience
 
 `2019 - Present`
-**Process Engineer**, *Linde Engineering*, Munich, Germany.
-{::comment}Placeholder
-Описание работы и достижения вкратце
-{:/}
+**Process/Systems Engineer**, *Linde Engineering*, Munich, Germany.
+
+{::comment}Placeholder{:/}
+Development of operating instructions for naphtha cracker ethylene facility.
+
+*Key points:* Cracking, cryogenic separation, rectification columns, extractive rectification, hydrodealkylation, catalysis
+
+*Notable achievements:* Consolidation of data from sources into excel, start-up planning, system interdependency analysis. 
 
 `2019`
 **Senior Process Engineer**, *Genesis Oil and Gas Consultants*, Atyrau, Kazakhstan
+
 {::comment}Placeholder{:/}
+Concept project development, technical studies
+
+*Key points:* Concept design, business development, offshore field development, cost analysis.
 
 `2017 - 2019`
 **Process Engineer**, *Total E&P Dunga*, Aktau, Kazakhstan
-{::comment}Placeholder{:/}
 
-`2012 - 2017
-**Process Engineer**, *Fluor*, Farnborough, UK, *Kazakh Projects Joint Venture*, Atyrau, Kazakhstan
 {::comment}Placeholder{:/}
+Engineering support of Dunga oil field in West Kazakhstan, including process input to major field development project and ongoing field modifications. Also conducted investigation and troubleshooting of production and safety related issues of the operational facilities.
 
-`2011 - 2012
-**Metallurgical department specialist,** *Kazzinctech*, Ust-Kamenogorsk, Kazakhstan
+*Key points:* Data collection, crude analysis, HYSYS simulation, sensitivity analysis, technical project review, incident investigation, scope of work preparation.
+
+*Notable achievements:* Helped to prepare a Project Design Basis, coordinated and consolidated various studies and decision support records. Sucessfully conducted in-depth system analyses in field for hydrate formation issue and presented findings to the facility management.
+
+`2012 - 2017`
+**Junior Process Engineer**, *Fluor*, Farnborough, UK, *Kazakh Projects Joint Venture*, Atyrau, Kazakhstan
+
 {::comment}Placeholder{:/}
+Process engineering design for two major capital projects for the next development phase of the Tengiz Oil Field in West Kazakhstan.
 
-`2010 - 2011
-**laboratory technician**, *Nazarbayev University*, Astana, Kazakhstan 	
+*Key points:* Modular construction, multiwellpads, sour production above 13% H2S, molecular sieve dehydration, water and sour gas injection, process hazard analysis and HAZOP.
+
+*Notable achievements:* Managed tie-in scope for brownfield modifications of a large gathering system: Supervision of drafting team, liaison with other disciplines, client status reporting.
+
+`2011 - 2012`
+**Metallurgical department specialist**, *Kazzinctech*, Ust-Kamenogorsk, Kazakhstan
+
+{::comment}Placeholder{:/}
+Engineering support during construction and commissioning of a copper smelter and refinery facilities within a zinc and lead smelting complex.
+
+*Key points:* Copper smelter furnace, furnace waste heat boiler, electrolytic refinery with reusable cathodes, commissioning activities.
+
+*Notable achievements:* Established a good rapport with all the stakeholders. {::comment}Maybe need a better achievement{:/}
+Developed a proposal to improve the energy balance of the complex using pinch technology.
+
+`2010 - 2011`
+**Laboratory technician**, *Nazarbayev University*, Astana, Kazakhstan
+
+Supervised the set-up of a new laboratory for foundation school, including procurement of equipment and materials.
+*Achievements:* Created a database to track and label material storage.
+
 
 ## Skills and knowledge
-Software: Office, Word, Excel {::comment}specific skills{:/}, Visio, Autocad, Aspen Hysys, Mathcad, Tableau, SQL queries
-Applied programming skills, 
-Calculation
-Design Basis and data collection
-P&ID development
-Heat exchange
-Fluid flow
-PSV sizing
-Equipment sizing
-Safety review and evaluation (HAZOP HAZID LOPA PHA)
-Root cause analysis of process incidents
-Utilities
-Sour service design and operation and safety
-Hydrates
-Flow assurance
-Gathering manifolds
-Separation
-Catalyst operation
-Coppper smelting and electrolytic cell rectification
-Stakeholder management
-Preparation of specifications and supervision contractors and suppliers
-Requirements analysis, presentations
 
+*Software:* MS Word, Excel (VBA, advanced formulae, Power Query), Visio, Autocad, Aspen Hysys, Mathcad, Tableau, SQL queries
 
+Applied programming skills - Python, CSS, HTML, SQL
 
+*Process Engineering:* Design Basis and data collection, PFD and P&ID development, Heat exchange, Fluid flow, PSV sizing, Equipment sizing, Utility system design, Sour service design and operation and safety, Hydrate prevention, Flow assurance, Gathering manifolds, Rectification, Catalysis, Coppper smelting and refining
+
+Safety review and evaluation (HAZOP, HAZID, ALARP, PHA)
+
+*Project management:* Stakeholder management, Preparation of specifications and supervision contractors and suppliers, Client requirements analysis, presentations, cost analysis
 
 ## Education
 `2006 - 2010 
 **BEng (Hons) Chemical Engineering**, *Aston University*, Birmingham, The United Kingdom	 
 Upper Second-Class 2.1 
 Final year project: “Design of a Waste-to-Energy plant in the UK”. 
-
-
 
 ## Achievements
 
