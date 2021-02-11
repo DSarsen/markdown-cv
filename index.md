@@ -106,7 +106,7 @@ Final year project: “Design of a Waste-to-Energy plant in the UK”.
 ## Achievements
 
 `2006`
-**Alumni**, *Bolashak scholarship of the Republic of Kazakhstan.*, Granted to study in any university of choice
+**Alumnus**, *Bolashak scholarship of the Republic of Kazakhstan.*, Granted to study in any university of choice
 
 `2004`
 **Finalist**, *Leader of the 21st century* Republican youth intellectual contest television show
