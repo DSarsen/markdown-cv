@@ -71,17 +71,23 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
 }
 
 p code {
+	float: right;
+	text-align: right;
+}
+/*Absolute right alignment of dates*/
+/* 
+p code {
 	position: absolute;
 	text-align: right;
 	right: -20%;
-}
+}*/
 
 
 ul {
@@ -138,10 +144,10 @@ h2 {
 	/* color: #bc412b;*/
 	margin-top: 1.5em;
 	margin-bottom: 1em;
-	left: 3%
+	left: 3%;
 	position: relative;
 	/* top: 1.4em;*/
-	text-align: right;
+	/*text-align: right;*/
 	width: 90%;
 }
 
