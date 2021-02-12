@@ -3,17 +3,14 @@ layout: cv
 title: Darkhan Sarsenov's CV
 ---
 # Darkhan Sarsenov
-Process Engineer
 
-{::comment}Consider changing for cross disciplinary jobs{:/}
 {::comment}Contact details{:/}
-mob. +49 15166156635
-
-<d.sarsenov@gmail.com>
+d.sarsenov@gmail.com | mob. +49 15166156635 
 
 
 ## Summary
 {::comment}A goddamn genius!{:/}
+{::comment}Consider changing for cross disciplinary jobs{:/}
 A  process  engineer  with  Chemical  Engineering  degree  with  10-year experience chiefly in oil and gas industry. 
 
 Broad portfolio of roles that includes:
@@ -106,7 +103,7 @@ Final year project: “Design of a Waste-to-Energy plant in the UK”.
 ## Achievements
 
 `2006`
-**Alumnus**, *Bolashak scholarship of the Republic of Kazakhstan.*, Granted to study in any university of choice
+**Alumni**, *Bolashak scholarship of the Republic of Kazakhstan.*, Granted to study in any university of choice
 
 `2004`
 **Finalist**, *Leader of the 21st century* Republican youth intellectual contest television show
