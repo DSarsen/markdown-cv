@@ -42,6 +42,7 @@ Development of operating instructions for naphtha cracker ethylene facility.
 Concept project development, technical studies
 
 *Key areas:* Concept design, business development, offshore field development, cost analysis.
+
 *Notable achievements*: Prepared field development concept summary for a client with detailed analysis of 30 scenarios. 
 
 `2017 - 2019`
@@ -96,14 +97,14 @@ Safety review and evaluation (HAZOP, HAZID, ALARP, PHA)
 
 ## Education
 `2006 - 2010` 
-**BEng (Hons) Chemical Engineering**, *Aston University*, Birmingham, The United Kingdom	 
-Upper Second-Class 2.1 
-Final year project: “Design of a Waste-to-Energy plant in the UK”. 
+**BEng (Hons) Chemical Engineering**, *Aston University*, Birmingham, United Kingdom
+
+Upper Second-Class 2.1. Final year project: “Design of a Waste-to-Energy plant in the UK”. 
 
 ## Achievements
 
 `2006`
-**Alumni**, *Bolashak scholarship of the Republic of Kazakhstan.*, Granted to study in any university of choice
+**Alumni**, *Bolashak scholarship of the Republic of Kazakhstan*, Granted to study in any university of choice
 
 `2004`
 **Finalist**, *Leader of the 21st century* Republican youth intellectual contest television show
