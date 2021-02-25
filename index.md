@@ -2,9 +2,8 @@
 layout: cv
 title: Darkhan Sarsenov's CV
 ---
-# Darkhan Sarsenov
 ## Lebenslauf
-
+## Darkhan Sarsenov
 {::comment} Kontaktdaten {:/}
 d.sarsenov@gmail.com | Mob. +49 15166156635
 
@@ -23,9 +22,9 @@ Kompetenter Einsatz von Industriestandards wie API / ASME und GOST sowie gemeins
 
 Interessiert sich an einer Karriere in den Bereichen Rohstoffnachverarbeitung, Biotechnologie, Verbrennung und erneuerbaren Energien.
 
-### Sprachkentnisse
+**Sprachkentnisse**
 
-English: verhandlungssicher, Deutsch: Gute Fremdsprachenkenntnisse, Russisch und Kasachisch: Muttersprache
+**English:** verhandlungssicher, **Deutsch:** Gute Fremdsprachenkenntnisse, **Russisch und Kasachisch:** Muttersprache
 
 
 
@@ -34,7 +33,7 @@ English: verhandlungssicher, Deutsch: Gute Fremdsprachenkenntnisse, Russisch und
 `seit 9/2019`
 **Systemingenieur**, *Linde Engineering*, München, Deutschland.
 
-{:: comment} Platzhalter {: /}
+{::comment} Platzhalter {:/}
 Erstellung von Betriebsanleitungen des Naphtha-Crackers für die Ethylenherstellung.
 
 *Schlüsselbereiche:* Cracken, Rektifikation, Extraktivrektifikation, Hydrodealkylierung, Katalyse
@@ -44,7 +43,7 @@ Erstellung von Betriebsanleitungen des Naphtha-Crackers für die Ethylenherstell
 `5/2019 - 9/2019`
 **Senior Process Engineer**, *Genesis Oil and Gas Consultants*, Atyrau, Kasachstan
 
-{:: comment} Platzhalter {: /}
+{::comment} Platzhalter {:/}
 Mitarbeit bei Konzeptprojekte und technischen Studien
 
 *Schlüsselbereiche:* Konzeption, Geschäftsentwicklung, Offshore-Feldentwicklung, Kostenanalyse.
@@ -54,7 +53,7 @@ Mitarbeit bei Konzeptprojekte und technischen Studien
 `7/2017 - 4/2019`
 **Process Engineer**, *Total E & P Dunga*, Aktau, Kasachstan
 
-{:: comment} Platzhalter {: /}
+{::comment} Platzhalter {:/}
 Technische Unterstützung des Dunga-Ölfeldes in Westkasachstan, einschließlich Austausch für das Feldentwicklungsprojekt und laufende Feldmodifikationen. Außerdem wurden Untersuchungen und Fehlerbehebungen zu Produktions- und Sicherheitsfragen der Betriebsanlagen durchgeführt.
 
 *Schlüsselbereiche:* Datenerfassung, Rohölanalyse, HYSYS-Simulation, Sensitivitätsanalyse, technische Projektüberprüfung, Untersuchung von Vorfällen, Erstellung von Arbeitsumfang.
@@ -64,7 +63,7 @@ Technische Unterstützung des Dunga-Ölfeldes in Westkasachstan, einschließlich
 `5/2012 - 6/2017`
 **Junior Process Engineer**, *Fluor*, Farnborough, Großbritannien, *Joint Venture für kasachische Projekte*, Atyrau, Kasachstan
 
-{:: comment} Platzhalter {: /}
+{::comment} Platzhalter {:/}
 Verfahrenstechnisches Engineering bei zwei große Kapitalprojekte für die nächste Entwicklungsphase des Tengiz-Ölfelds in Westkasachstan.
 
 *Schlüsselbereiche:* Modularer Aufbau, Multiwellpads, saure Produktion (über 13% H2S), Trocknung mit Molekularsieben, Wasser- und Sauergasinjektion, Risikoanalysen (Process hazard analysis (PHA)/HAZOP/Safety objective analysis(SOA)).
@@ -74,7 +73,7 @@ Verfahrenstechnisches Engineering bei zwei große Kapitalprojekte für die näch
 `2011 - 2012`
 **Spezialist bei Metallurgienabteilung**, *Kazzinctech*, Ust-Kamenogorsk, Kasachstan
 
-{:: comment} Platzhalter {: /}
+{::comment} Platzhalter {:/}
 Technische Unterstützung beim Bau und der Inbetriebnahme einer Kupferschmelze und einer Raffinerieanlage in einem Zink- und Bleischmelzkomplex.
 
 *Schlüsselbereiche:* Kupferschmelzofen, Ofenabwärmekessel, Elektrolytraffinerie mit wiederverwendbaren Kathoden, Inbetriebnahmetätigkeiten.
