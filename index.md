@@ -57,7 +57,7 @@ Technische Unterstützung des Dunga-Ölfeldes in Westkasachstan, einschließlich
 *Erfolge:* Erstellte Design-Grundlage, Koordinierte und legte  verschiedene Studien und Entscheidungsunterstützungberichte zusammen. Analysierte Ursachen der Hydratbildung und stellte die Ergebnisse dem Facility Management vor.
 
 `5/2012 - 6/2017`
-**Junior Process Engineer**, *Fluor*, Farnborough, Großbritannien, *Joint Venture für kasachische Projekte*, Atyrau, Kasachstan
+**Junior Process Engineer**, *Fluor*, Farnborough, Großbritannien, *Kazakh Projects Joint Venture*, Atyrau, Kasachstan
 
 {::comment} Platzhalter {:/}
 Verfahrenstechnisches Engineering bei zwei große Kapitalprojekte für die nächste Entwicklungsphase des Tengiz-Ölfelds in Westkasachstan.
@@ -66,7 +66,7 @@ Verfahrenstechnisches Engineering bei zwei große Kapitalprojekte für die näch
 
 *Erfolge:*  Mitarbeit bei den Bindungsbereich für Brownfield-Modifikationen eines großen Sammelsystems: Beaufsichtigung des Zeichenteams, Kommunikation mit anderen Disziplinen, Bereitstellung von Berichten zum Kundenstatus.
 
-`2011 - 2012`
+`3/2011 - 5/2012`
 **Spezialist bei Metallurgienabteilung**, *Kazzinctech*, Ust-Kamenogorsk, Kasachstan
 
 {::comment} Platzhalter {:/}
