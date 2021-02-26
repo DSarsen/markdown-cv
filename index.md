@@ -20,9 +20,7 @@ Breite Erfahrung einschließlich der folgenden Rollen:
 
 Kompetenter Einsatz von Industriestandards wie API / ASME und GOST sowie gemeinsame Praktiken in Supermajors.
 
-**Sprachkentnisse**
-
-**English:** verhandlungssicher, **Deutsch:** Gute Fremdsprachenkenntnisse, **Russisch und Kasachisch:** Muttersprache
+**Sprachkentnisse** - **English:** verhandlungssicher, **Deutsch:** Gute Fremdsprachenkenntnisse, **Russisch und Kasachisch:** Muttersprache
 
 
 
@@ -73,11 +71,6 @@ Verfahrenstechnisches Engineering bei zwei große Kapitalprojekte für die näch
 
 {::comment} Platzhalter {:/}
 Technische Unterstützung beim Bau und der Inbetriebnahme einer Kupferschmelze und einer Raffinerieanlage in einem Zink- und Bleischmelzkomplex.
-
-`2010 - 2011`
-**Labortechniker**,*Nasarbajew-Universität*, Astana, Kasachstan
-
-Betreute Einrichtung eines neuen Chemielabors für Grundschulklassen, einschließlich der Beschaffung von Ausrüstung und Materialien.
 
 ## Sonstige Kentnisse
 
