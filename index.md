@@ -2,8 +2,7 @@
 layout: cv
 title: Darkhan Sarsenov's CV
 ---
-## Lebenslauf
-## Darkhan Sarsenov
+## Lebenslauf - Darkhan Sarsenov
 {::comment} Kontaktdaten {:/}
 d.sarsenov@gmail.com | Mob. +49 15166156635
 
@@ -11,8 +10,9 @@ d.sarsenov@gmail.com | Mob. +49 15166156635
 ## Über Mich
 
 Verfahrenstechnik-/Chemieingenieur mit 10-jährigen Erfahrung in der Öl- und Gasindustrie und abgeschlossenen Studium im Bereich des Chemieingenieurwesens.
+Aufenthalterlaubnis zur Beschäftigung in Deutschland.
 
-Breite Erfahrung einschließlich der folgenden Rollen::
+Breite Erfahrung einschließlich der folgenden Rollen:
 
 - Engineering bei kleinen und großen Anlagenbauprojekten (ab 35 Mrd. USD) in allen Entwicklungsphasen;
 - Unterstützung beim Öl- und Gasanlagenbetrieb;
@@ -20,11 +20,7 @@ Breite Erfahrung einschließlich der folgenden Rollen::
 
 Kompetenter Einsatz von Industriestandards wie API / ASME und GOST sowie gemeinsame Praktiken in Supermajors.
 
-Interessiert sich an einer Karriere in den Bereichen Rohstoffnachverarbeitung, Biotechnologie, Verbrennung und erneuerbaren Energien.
-
-**Sprachkentnisse**
-
-**English:** verhandlungssicher, **Deutsch:** Gute Fremdsprachenkenntnisse, **Russisch und Kasachisch:** Muttersprache
+**Sprachkentnisse** - **English:** verhandlungssicher, **Deutsch:** Gute Fremdsprachenkenntnisse, **Russisch und Kasachisch:** Muttersprache
 
 
 
@@ -61,7 +57,7 @@ Technische Unterstützung des Dunga-Ölfeldes in Westkasachstan, einschließlich
 *Erfolge:* Erstellte Design-Grundlage, Koordinierte und legte  verschiedene Studien und Entscheidungsunterstützungberichte zusammen. Analysierte Ursachen der Hydratbildung und stellte die Ergebnisse dem Facility Management vor.
 
 `5/2012 - 6/2017`
-**Junior Process Engineer**, *Fluor*, Farnborough, Großbritannien, *Joint Venture für kasachische Projekte*, Atyrau, Kasachstan
+**Junior Process Engineer**, *Fluor*, Farnborough, Großbritannien, *Kazakh Projects Joint Venture*, Atyrau, Kasachstan
 
 {::comment} Platzhalter {:/}
 Verfahrenstechnisches Engineering bei zwei große Kapitalprojekte für die nächste Entwicklungsphase des Tengiz-Ölfelds in Westkasachstan.
@@ -70,24 +66,11 @@ Verfahrenstechnisches Engineering bei zwei große Kapitalprojekte für die näch
 
 *Erfolge:*  Mitarbeit bei den Bindungsbereich für Brownfield-Modifikationen eines großen Sammelsystems: Beaufsichtigung des Zeichenteams, Kommunikation mit anderen Disziplinen, Bereitstellung von Berichten zum Kundenstatus.
 
-`2011 - 2012`
+`3/2011 - 5/2012`
 **Spezialist bei Metallurgienabteilung**, *Kazzinctech*, Ust-Kamenogorsk, Kasachstan
 
 {::comment} Platzhalter {:/}
 Technische Unterstützung beim Bau und der Inbetriebnahme einer Kupferschmelze und einer Raffinerieanlage in einem Zink- und Bleischmelzkomplex.
-
-*Schlüsselbereiche:* Kupferschmelzofen, Ofenabwärmekessel, Elektrolytraffinerie mit wiederverwendbaren Kathoden, Inbetriebnahmetätigkeiten.
-
-*Erfolge:* Aufbau eines guten Verhältnisses zu allen Beteiligten.
-Entwicklung eines Vorschlags zur Verbesserung der Energiebalanz des Komplexes dürch der Pinch-Technologie.
-
-`2010 - 2011`
-**Labortechniker**,*Nasarbajew-Universität*, Astana, Kasachstan
-
-Betreute Einrichtung eines neuen Chemielabors für Grundschulklassen, einschließlich der Beschaffung von Ausrüstung und Materialien.
-
-*Erfolge:*Erstellt eine Datenbank zur Verfolgung und Kennzeichnung der Materiallagerung.
-
 
 ## Sonstige Kentnisse
 
