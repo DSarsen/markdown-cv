@@ -10,15 +10,15 @@ d.sarsenov@gmail.com | Mob. +49 15166156635
 ## Über Mich
 
 Verfahrenstechnik-/Chemieingenieur mit 10-jährigen Erfahrung in der Öl- und Gasindustrie und abgeschlossenen Studium im Bereich des Chemieingenieurwesens.
+Aufenthalterlaubnis zur Beschäftigung in Deutschland.
 
-Breite Erfahrung einschließlich der folgenden Rollen::
+Breite Erfahrung einschließlich der folgenden Rollen:
 
 - Engineering bei kleinen und großen Anlagenbauprojekten (ab 35 Mrd. USD) in allen Entwicklungsphasen;
 - Unterstützung beim Öl- und Gasanlagenbetrieb;
 - Mitarbeit bei Kunden und Auftragnehmern im internationalen Umfeld.
-Kompetenter Einsatz von Industriestandards wie API / ASME und GOST sowie gemeinsame Praktiken in Supermajors.
 
-Interessiert sich an einer Karriere in den Bereichen Rohstoffnachverarbeitung, Biotechnologie, Verbrennung und erneuerbaren Energien.
+Kompetenter Einsatz von Industriestandards wie API / ASME und GOST sowie gemeinsame Praktiken in Supermajors.
 
 **Sprachkentnisse**
 
@@ -74,18 +74,10 @@ Verfahrenstechnisches Engineering bei zwei große Kapitalprojekte für die näch
 {::comment} Platzhalter {:/}
 Technische Unterstützung beim Bau und der Inbetriebnahme einer Kupferschmelze und einer Raffinerieanlage in einem Zink- und Bleischmelzkomplex.
 
-*Schlüsselbereiche:* Kupferschmelzofen, Ofenabwärmekessel, Elektrolytraffinerie mit wiederverwendbaren Kathoden, Inbetriebnahmetätigkeiten.
-
-*Erfolge:* Aufbau eines guten Verhältnisses zu allen Beteiligten.
-Entwicklung eines Vorschlags zur Verbesserung der Energiebalanz des Komplexes dürch der Pinch-Technologie.
-
 `2010 - 2011`
 **Labortechniker**,*Nasarbajew-Universität*, Astana, Kasachstan
 
 Betreute Einrichtung eines neuen Chemielabors für Grundschulklassen, einschließlich der Beschaffung von Ausrüstung und Materialien.
-
-*Erfolge:*Erstellt eine Datenbank zur Verfolgung und Kennzeichnung der Materiallagerung.
-
 
 ## Sonstige Kentnisse
 
