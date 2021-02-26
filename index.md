@@ -2,8 +2,7 @@
 layout: cv
 title: Darkhan Sarsenov's CV
 ---
-## Lebenslauf
-## Darkhan Sarsenov
+## Lebenslauf - Darkhan Sarsenov
 {::comment} Kontaktdaten {:/}
 d.sarsenov@gmail.com | Mob. +49 15166156635
 
@@ -17,7 +16,6 @@ Breite Erfahrung einschließlich der folgenden Rollen::
 - Engineering bei kleinen und großen Anlagenbauprojekten (ab 35 Mrd. USD) in allen Entwicklungsphasen;
 - Unterstützung beim Öl- und Gasanlagenbetrieb;
 - Mitarbeit bei Kunden und Auftragnehmern im internationalen Umfeld.
-
 Kompetenter Einsatz von Industriestandards wie API / ASME und GOST sowie gemeinsame Praktiken in Supermajors.
 
 Interessiert sich an einer Karriere in den Bereichen Rohstoffnachverarbeitung, Biotechnologie, Verbrennung und erneuerbaren Energien.
