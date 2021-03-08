@@ -21,15 +21,23 @@ With the record breaking investment round of 2020 Isar Aerospace its transition 
 
 ## The pain hypothesis
 
-Isar Aerospace has set a grand mission for itself with the design of Spectrum. Every part of Spectrum is unique: the structural design, the propulsion system, the launchpad and the required infrastructure, to name a few. Taking the road less travelled requires not only the technical skills to find the solutions, but the ability to ask the right questions. At the same time, it is important to continue delivering the prototyping and testing results to retain the attention of the investors and potential clients. It takes a team with members that have a set of multidisciplinary skills.
+Isar Aerospace has set a grand mission for itself with the design of Spectrum. Every part of Spectrum is unique: the structural design, the propulsion system, the launchpad and the required infrastructure, to name a few. Taking the road less travelled requires not only the technical skills to find the solutions, but the ability to ask the right questions. At the same time, it is important to continue delivering the prototyping and testing results to retain the attention of the investors and potential clients. It takes a team with members that have a set of multidisciplinary skills to find working solutions to this kind of novel approach.
 
 ## Dragon slaying story
 
-Throughout my career I felt best suited for new problem solving. My superiors often noted the same. When given a completely new challenge from a new field I may become engrossed in it. For example, at my current job I have faced many chemical processes that were completely new to me, such as hydrogenation reactors. By learning about these processes and analysing them I pointed out important flaws in the technical description and within 2-3 weeks earned the reputation of a team expert in the hydrogenation reactors. I am looking to make a leap out of the Oil and Gas industry to match my strengths and interests. In Isar Aerospace I would work together with the propulsion team and suppliers to work out the process specifications for the propellant fuel and oxidizer storage, transport and filling facilities. To do that I would ask questions, seek answers, consistently deliver intermediate results, collaborate with the other design and testing engineers, and use my experience from other industries.
+Throughout my career I felt best suited for new problem solving. My superiors often noted the same. When given a completely new challenge from a new field I may become engrossed in it. For example, at my current job I have faced many chemical processes that were completely new to me, such as hydrogenation reactors. By learning about these processes and analysing them I pointed out important flaws in the technical description and within 2-3 weeks earned the reputation of a team expert in the hydrogenation reactors. Now I am looking to make a leap out of the Oil and Gas industry to match my strengths and interests.
 
-## More thoughts?
+## Steps and my gear
 
-Commercial space industry is on the verge of explosive growth in the near future. It is like the Industrial Revolution when the steam engines were only used to improve the traditional production methods. Eventually the steam engine led to things that people could only fantasize about. I would be extremely happy to take part in such a pivotal time for your company and the space industry.
+For a successfull first launch and the further optimization to get to reliable and safe serial launches may involve the following:
+
+- Establish cost effective fuel specifications for optimal rocket engine performance.
+- Concept, design and commission the propellant storage, transfer and filling facilities starting from the supplier to the launchpad.
+- Work with the engineering contractors, i.e. prepare technical documentation and specifications, as well as validate the compatibility of the systems.
+- Conduct safety review of the systems and the individual nodes.
+- Model, simulate, prototype and test the individual parts of the system. 
+
+With my background in chemical processing of hydrocarbons, I faced such tasks daily. It would be a pleasure to apply the familiar methods in a different setting.
 
 ## The closing
 
