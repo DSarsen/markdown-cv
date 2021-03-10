@@ -2,88 +2,109 @@
 layout: cv
 title: Darkhan Sarsenov's CV
 ---
-## Lebenslauf - Darkhan Sarsenov
-{::comment} Kontaktdaten {:/}
-d.sarsenov@gmail.com | Mob. +49 15166156635
+# Darkhan Sarsenov
+
+{::comment}Contact details{:/}
+d.sarsenov@gmail.com | mob. +49 15166156635 
 
 
-## Über Mich
+## Summary
+{::comment}A goddamn genius!{:/}
+{::comment}Consider changing for cross disciplinary jobs{:/}
+A  process  engineer  with  Chemical  Engineering  degree  with  10-year experience chiefly in oil and gas industry. 
 
-Verfahrenstechnik-/Chemieingenieur mit 10-jährigen Erfahrung in der Öl- und Gasindustrie und abgeschlossenen Studium im Bereich des Chemieingenieurwesens.
-Aufenthalterlaubnis zur Beschäftigung in Deutschland.
+Broad portfolio of roles that includes:
 
-Breite Erfahrung einschließlich der folgenden Rollen:
+- engineering design of small and large scale projects ($35B) in all development stages;
+- operational support of oil and gas facilities;
+- work at client and contractor positions.
 
-- Engineering bei kleinen und großen Anlagenbauprojekten (ab 35 Mrd. USD) in allen Entwicklungsphasen;
-- Unterstützung beim Öl- und Gasanlagenbetrieb;
-- Mitarbeit bei Kunden und Auftragnehmern im internationalen Umfeld.
+Proficiently employed industrial standards including API/ ASME, and GOST, as well as common practices in Oil and Gas Supermajors.
 
-Kompetenter Einsatz von Industriestandards wie API / ASME und GOST sowie gemeinsame Praktiken in Supermajors.
+Interested in pursuing a career related to downstream processing, biotechnology, combustion and renewable energy. Fluent user of Kazakh, Russian and English languages. Currently learning German (B1) and Turkish.
 
-**Sprachkentnisse** - **English:** verhandlungssicher, **Deutsch:** Gute Fremdsprachenkenntnisse, **Russisch und Kasachisch:** Muttersprache
+## Experience
+
+`2019 - Present`
+**Process/Systems Engineer**, *Linde Engineering*, Munich, Germany.
+
+{::comment}Placeholder{:/}
+Development of operating instructions for naphtha cracker ethylene facility.
+
+*Key areas:* Cracking, cryogenic separation, rectification columns, extractive rectification, hydrodealkylation, catalysis
+
+*Notable achievements:* Consolidated data from various sources into excel spreadsheets and developed a team document template to speed up document delivery, conducted system interdependency analysis for start-up and operation, identified and communicated possible safety and operability issues.
+
+`2019`
+**Senior Process Engineer**, *Genesis Oil and Gas Consultants*, Atyrau, Kazakhstan
+
+{::comment}Placeholder{:/}
+Concept project development, technical studies
+
+*Key areas:* Concept design, business development, offshore field development, cost analysis.
+
+*Notable achievements*: Prepared field development concept summary for a client with detailed analysis of 30 scenarios. 
+
+`2017 - 2019`
+**Process Engineer**, *Total E&P Dunga*, Aktau, Kazakhstan
+
+{::comment}Placeholder{:/}
+Engineering support of Dunga oil field in West Kazakhstan, including process input to major field development project and ongoing field modifications. Also conducted investigation and troubleshooting of production and safety related issues of the operational facilities.
+
+*Key areas:* Data collection, crude analysis, HYSYS simulation, sensitivity analysis, technical project review, incident investigation, scope of work preparation.
+
+*Notable achievements:* Prepared a Project Design Basis, coordinated and consolidated various studies and decision support records. Sucessfully conducted in-depth system analyses in field for hydrate formation issue and presented findings to the facility management.
+
+`2012 - 2017`
+**Junior Process Engineer**, *Fluor*, Farnborough, UK, *Kazakh Projects Joint Venture*, Atyrau, Kazakhstan
+
+{::comment}Placeholder{:/}
+Process engineering design for two major capital projects for the next development phase of the Tengiz Oil Field in West Kazakhstan.
+
+*Key areas:* Modular construction, multiwellpads, sour production above 13% H2S, molecular sieve dehydration, water and sour gas injection, process hazard analysis and HAZOP.
+
+*Notable achievements:* Successfully managed tie-in scope for brownfield modifications of a large gathering system: Supervised the drafting team, liaised with other disciplines, provided client status reporting.
+
+`2011 - 2012`
+**Metallurgical department specialist**, *Kazzinctech*, Ust-Kamenogorsk, Kazakhstan
+
+{::comment}Placeholder{:/}
+Engineering support during construction and commissioning of a copper smelter and refinery facilities within a zinc and lead smelting complex.
+
+*Key areas:* Copper smelter furnace, furnace waste heat boiler, electrolytic refinery with reusable cathodes, commissioning activities.
+
+*Notable achievements:* Established a good rapport with all stakeholders. {::comment}Maybe need a better achievement{:/}
+Developed a proposal to improve the energy balance of the complex using pinch technology.
+
+`2010 - 2011`
+**Laboratory technician**, *Nazarbayev University*, Astana, Kazakhstan
+
+Supervised setting up a new chemistry laboratory for foundation school classes, including procurement of equipment and materials.
+*Achievements:* Created a database to track and label material storage.
 
 
+## Skills and knowledge
 
-## Berufliche Tätigkeiten
+*Software:* MS Word, Excel (VBA, advanced formulae, Power Query), Visio, Autocad, Aspen Hysys, Mathcad, Tableau
 
-`seit 9/2019`
-**Systemingenieur**, *Linde Engineering*, München, Deutschland.
+Applied programming skills - Python, CSS, HTML, SQL
 
-{::comment} Platzhalter {:/}
-Erstellung von Betriebsanleitungen des Naphtha-Crackers für die Ethylenherstellung.
+*Process Engineering:* Design Basis and data collection, PFD and P&ID development, Heat exchange, Fluid flow, PSV sizing, Equipment sizing, Utility system design, Sour service design and operation and safety, Hydrate prevention, Flow assurance, Gathering manifolds, Rectification, Catalysis, Coppper smelting and refining
 
-*Schlüsselbereiche:* Cracken, Rektifikation, Extraktivrektifikation, Hydrodealkylierung, Katalyse
+Safety review and evaluation (HAZOP, HAZID, ALARP, PHA)
 
-*Erfolge:* Konsolidierte Daten aus verschiedenen Quellen in Excel-Tabellen und erstellte die Dokumentvorlage, welche die Produktivität des Teams gesteigert hatte, analysierte die Interdependenz des Systems bei Inbetriebnahme und Betriebsführung, Identifizierte Sicherheits- und Funktionsprobleme.
+*Project management:* Stakeholder management, Preparation of specifications and supervision contractors and suppliers, Client requirements analysis, Presentations, Cost analysis
 
-`5/2019 - 9/2019`
-**Senior Process Engineer**, *Genesis Oil and Gas Consultants*, Atyrau, Kasachstan
+## Education
+`2006 - 2010` 
+**BEng (Hons) Chemical Engineering**, *Aston University*, Birmingham, United Kingdom
 
-{::comment} Platzhalter {:/}
-Mitarbeit bei Konzeptprojekte und technischen Studien
+Upper Second-Class 2.1. Final year project: “Design of a Waste-to-Energy plant in the UK”. 
 
-*Schlüsselbereiche:* Konzeption, Geschäftsentwicklung, Offshore-Feldentwicklung, Kostenanalyse.
+## Achievements
 
-*Erfolge:* Erstellte die Zusammenfassung des Feldentwicklungskonzepts für einen Kunden mit detaillierter Analyse von 30 Szenarien.
+`2006`
+**Alumni**, *Bolashak scholarship of the Republic of Kazakhstan*, Granted to study in any university of choice
 
-`7/2017 - 4/2019`
-**Process Engineer**, *Total E & P Dunga*, Aktau, Kasachstan
-
-{::comment} Platzhalter {:/}
-Technische Unterstützung des Dunga-Ölfeldes in Westkasachstan, einschließlich Austausch für das Feldentwicklungsprojekt und laufende Feldmodifikationen. Außerdem wurden Untersuchungen und Fehlerbehebungen zu Produktions- und Sicherheitsfragen der Betriebsanlagen durchgeführt.
-
-*Schlüsselbereiche:* Datenerfassung, Rohölanalyse, HYSYS-Simulation, Sensitivitätsanalyse, technische Projektüberprüfung, Untersuchung von Vorfällen, Erstellung von Arbeitsumfang.
-
-*Erfolge:* Erstellte Design-Grundlage, Koordinierte und legte  verschiedene Studien und Entscheidungsunterstützungberichte zusammen. Analysierte Ursachen der Hydratbildung und stellte die Ergebnisse dem Facility Management vor.
-
-`5/2012 - 6/2017`
-**Junior Process Engineer**, *Fluor*, Farnborough, Großbritannien, *Kazakh Projects Joint Venture*, Atyrau, Kasachstan
-
-{::comment} Platzhalter {:/}
-Verfahrenstechnisches Engineering bei zwei große Kapitalprojekte für die nächste Entwicklungsphase des Tengiz-Ölfelds in Westkasachstan.
-
-*Schlüsselbereiche:* Modularer Aufbau, Multiwellpads, saure Produktion (über 13% H2S), Trocknung mit Molekularsieben, Wasser- und Sauergasinjektion, Risikoanalysen (Process hazard analysis (PHA)/HAZOP/Safety objective analysis(SOA)).
-
-*Erfolge:*  Mitarbeit bei den Bindungsbereich für Brownfield-Modifikationen eines großen Sammelsystems: Beaufsichtigung des Zeichenteams, Kommunikation mit anderen Disziplinen, Bereitstellung von Berichten zum Kundenstatus.
-
-`3/2011 - 5/2012`
-**Spezialist bei Metallurgienabteilung**, *Kazzinctech*, Ust-Kamenogorsk, Kasachstan
-
-{::comment} Platzhalter {:/}
-Technische Unterstützung beim Bau und der Inbetriebnahme einer Kupferschmelze und einer Raffinerieanlage in einem Zink- und Bleischmelzkomplex.
-
-## Sonstige Kentnisse
-
-*Software:* MS Word, Excel (VBA, erweiterte Formeln, Power Query), Visio, Autocad, Aspen Hysys, Mathcad, Tableau
-
-Ausübende Programmierkenntnisse - Python, CSS, HTML, SQL
-
-*Verfahrenstechnik:* Design-Grundlage und Datenerfassung,  Erstellung von Verfahrens- und R&I-Fließschemata, Versorgungssystemen, Betrieb mit Sauergas, Hydratprävention, Flow assurance
-
-Risikoanalysen (HAZOP, HAZID, ALARP, PHA)
-
-## Studium
-`2006 - 2010`
-**BEng (Hons) Chemical Engineering**, *Aston University*, Birmingham, Großbritannien
-Abschlussnote: Obere zweite Klasse 2:1
-Abschlussjahrprojekt: „Design of a Waste-to-Energy plant in the UK“.
+`2004`
+**Finalist**, *Leader of the 21st century* Republican youth intellectual contest television show
