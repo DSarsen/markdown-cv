@@ -11,7 +11,7 @@ d.sarsenov@gmail.com | mob. +49 15166156635
 ## Summary
 {::comment}A goddamn genius!{:/}
 {::comment}Consider changing for cross disciplinary jobs{:/}
-A  process  engineer  with  Chemical  Engineering  degree  with  10-year experience chiefly in oil and gas industry. 
+A  process  engineer  with  Chemical  Engineering  degree  with  10-year experience in hydrocarbon processing. 
 
 Broad portfolio of roles that includes:
 
@@ -21,7 +21,7 @@ Broad portfolio of roles that includes:
 
 Proficiently employed industrial standards including API/ ASME, and GOST, as well as common practices in Oil and Gas Supermajors.
 
-Interested in pursuing a career related to downstream processing, biotechnology, combustion and renewable energy. Fluent user of Kazakh, Russian and English languages. Currently learning German (B1) and Turkish.
+Interested in pursuing a career related to downstream processing, biotechnology, combustion, propulsion and renewable energy. Fluent user of Kazakh, Russian and English languages. Currently learning German (B1) and Turkish.
 
 ## Experience
 
@@ -49,7 +49,7 @@ Concept project development, technical studies
 **Process Engineer**, *Total E&P Dunga*, Aktau, Kazakhstan
 
 {::comment}Placeholder{:/}
-Engineering support of Dunga oil field in West Kazakhstan, including process input to major field development project and ongoing field modifications. Also conducted investigation and troubleshooting of production and safety related issues of the operational facilities.
+Engineering support of Dunga oil field in West Kazakhstan, including process input to major field development project and ongoing field modifications and interfacing with the suppliers. Also conducted investigation and troubleshooting of production and safety related issues of the operational facilities.
 
 *Key areas:* Data collection, crude analysis, HYSYS simulation, sensitivity analysis, technical project review, incident investigation, scope of work preparation.
 
@@ -89,9 +89,9 @@ Supervised setting up a new chemistry laboratory for foundation school classes, 
 
 Applied programming skills - Python, CSS, HTML, SQL
 
-*Process Engineering:* Design Basis and data collection, PFD and P&ID development, Heat exchange, Fluid flow, PSV sizing, Equipment sizing, Utility system design, Sour service design and operation and safety, Hydrate prevention, Flow assurance, Gathering manifolds, Rectification, Catalysis, Coppper smelting and refining
+*Process Engineering:* Design Basis and data collection, PFD and P&ID development, Heat exchange, Fluid flow modelling and simulation, PSV sizing, Equipment sizing, Utility system design, Sour/High-Pressure/Cryogenic service design and operation and safety, Hydrate prevention, Flow assurance, Gathering manifolds, Rectification, Catalysis, Coppper smelting and refining
 
-Safety review and evaluation (HAZOP, HAZID, ALARP, PHA)
+Safety review and evaluation (HAZOP/FMEA, HAZID, ALARP, PHA)
 
 *Project management:* Stakeholder management, Preparation of specifications and supervision contractors and suppliers, Client requirements analysis, Presentations, Cost analysis
 
@@ -100,6 +100,9 @@ Safety review and evaluation (HAZOP, HAZID, ALARP, PHA)
 **BEng (Hons) Chemical Engineering**, *Aston University*, Birmingham, United Kingdom
 
 Upper Second-Class 2.1. Final year project: “Design of a Waste-to-Energy plant in the UK”. 
+
+## Hobbies
+{::comment}Mention sci-fi and programming{:/}
 
 ## Achievements
 
