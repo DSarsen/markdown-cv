@@ -11,7 +11,7 @@ d.sarsenov@gmail.com | mob. +49 15166156635
 ## Summary
 {::comment}A goddamn genius!{:/}
 {::comment}Consider changing for cross disciplinary jobs{:/}
-A  process  engineer  with  Chemical  Engineering  degree  with  10-year experience chiefly in oil and gas industry. 
+A  process  engineer  with  Chemical  Engineering  degree  with  10-year experience in hydrocarbon processing. 
 
 Broad portfolio of roles that includes:
 
@@ -21,7 +21,9 @@ Broad portfolio of roles that includes:
 
 Proficiently employed industrial standards including API/ ASME, and GOST, as well as common practices in Oil and Gas Supermajors.
 
-Interested in pursuing a career related to downstream processing, biotechnology, combustion and renewable energy. Fluent user of Kazakh, Russian and English languages. Currently learning German (B1) and Turkish.
+Interested in pursuing a career related to downstream processing, biotechnology, combustion, propulsion and renewable energy.
+
+*Language skills* - **English:** Fluent; **German:** Good; **Russian and Kazakh:** Native.
 
 ## Experience
 
@@ -49,7 +51,7 @@ Concept project development, technical studies
 **Process Engineer**, *Total E&P Dunga*, Aktau, Kazakhstan
 
 {::comment}Placeholder{:/}
-Engineering support of Dunga oil field in West Kazakhstan, including process input to major field development project and ongoing field modifications. Also conducted investigation and troubleshooting of production and safety related issues of the operational facilities.
+Engineering support of Dunga oil field in West Kazakhstan, including process input to major field development project and ongoing field modifications and interfacing with the suppliers. Also conducted investigation and troubleshooting of production and safety related issues of the operational facilities.
 
 *Key areas:* Data collection, crude analysis, HYSYS simulation, sensitivity analysis, technical project review, incident investigation, scope of work preparation.
 
@@ -80,6 +82,7 @@ Developed a proposal to improve the energy balance of the complex using pinch te
 **Laboratory technician**, *Nazarbayev University*, Astana, Kazakhstan
 
 Supervised setting up a new chemistry laboratory for foundation school classes, including procurement of equipment and materials.
+
 *Achievements:* Created a database to track and label material storage.
 
 
@@ -89,11 +92,11 @@ Supervised setting up a new chemistry laboratory for foundation school classes, 
 
 Applied programming skills - Python, CSS, HTML, SQL
 
-*Process Engineering:* Design Basis and data collection, PFD and P&ID development, Heat exchange, Fluid flow, PSV sizing, Equipment sizing, Utility system design, Sour service design and operation and safety, Hydrate prevention, Flow assurance, Gathering manifolds, Rectification, Catalysis, Coppper smelting and refining
+*Process Engineering:* Design Basis and data collection, PFD and P&ID development, Fluid flow modelling and simulation, Equipment sizing, Utility system design, Sour/High-Pressure/Cryogenic service design and operation and safety, Hydrate prevention, Flow assurance, Coppper smelting and refining
 
-Safety review and evaluation (HAZOP, HAZID, ALARP, PHA)
+Safety review and evaluation (HAZOP/FMEA, HAZID, ALARP, PHA)
 
-*Project management:* Stakeholder management, Preparation of specifications and supervision contractors and suppliers, Client requirements analysis, Presentations, Cost analysis
+*Project management:* Stakeholder management, Preparation of specifications and supervision of contractors and suppliers, Client requirements analysis, Presentations, Cost analysis
 
 ## Education
 `2006 - 2010` 
@@ -101,10 +104,17 @@ Safety review and evaluation (HAZOP, HAZID, ALARP, PHA)
 
 Upper Second-Class 2.1. Final year project: “Design of a Waste-to-Energy plant in the UK”. 
 
+## Other interests
+
+{::comment}Mention sci-fi and programming{:/}
+- Technical sci-fi: The Martian, Neil Stevenson, Space Odyssey: 2001, Interstellar
+- Popular science and related media: maths, theoretical physics, space exploration
+- Light coding and automation of daily activities in work and life
+
 ## Achievements
 
 `2006`
 **Alumni**, *Bolashak scholarship of the Republic of Kazakhstan*, Granted to study in any university of choice
 
 `2004`
-**Finalist**, *Leader of the 21st century* Republican youth intellectual contest television show
+**Finalist**, *Leader of the 21st century* Republican general knowledge quiz television show for youth
