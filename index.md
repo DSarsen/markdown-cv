@@ -104,13 +104,6 @@ Safety review and evaluation (HAZOP/FMEA, HAZID, ALARP, PHA)
 
 Upper Second-Class 2.1. Final year project: “Design of a Waste-to-Energy plant in the UK”. 
 
-## Other interests
-
-{::comment}Mention sci-fi and programming{:/}
-- Technical sci-fi: The Martian, Neil Stevenson, Space Odyssey: 2001, Interstellar
-- Popular science and related media: maths, theoretical physics, space exploration
-- Light coding and automation of daily activities in work and life
-
 ## Achievements
 
 `2006`
