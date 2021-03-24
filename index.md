@@ -15,7 +15,7 @@ A  process  engineer  with  Chemical  Engineering  degree  with  10-year experie
 
 Broad portfolio of roles that includes:
 
-- engineering design of small and large scale projects ($35B) in all development stages;
+- Initiation, investment support and execution of small and large scale projects (Up to $35B) in all stages;
 - operational support of oil and gas facilities;
 - work at client and contractor positions.
 
